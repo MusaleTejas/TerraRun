@@ -1,25 +1,42 @@
 {
   "expo": {
     "name": "TerraRun",
-    "slug": "TerraRun",
+    "slug": "terrarun",
     "version": "1.0.0",
+
     "orientation": "portrait",
+
+    "userInterfaceStyle": "dark",
+
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
+
+    "scheme": "terrarun",
+
+    "plugins": [
+      "expo-router"
+    ],
+
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.tejas.terrarun"
     },
+
     "android": {
+      "package": "com.tejas.terrarun",
+
       "adaptiveIcon": {
-        "backgroundColor": "#E6F4FE",
         "foregroundImage": "./assets/android-icon-foreground.png",
         "backgroundImage": "./assets/android-icon-background.png",
-        "monochromeImage": "./assets/android-icon-monochrome.png"
-      },
-      "predictiveBackGestureEnabled": false
+        "backgroundColor": "#1A0D0A"
+      }
     },
+
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+
+    "experiments": {
+      "typedRoutes": true
     }
   }
 }
