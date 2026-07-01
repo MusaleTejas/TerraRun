@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>192169808423-t94dvm4qihpnmvtedco003m5p127s2o4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.192169808423-t94dvm4qihpnmvtedco003m5p127s2o4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBy9acEUmBINvXweJByRCsgye5_Bonr5lM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>192169808423</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.nextgen.terrarun</string>
+	<key>PROJECT_ID</key>
+	<string>terrarun-6d767</string>
+	<key>STORAGE_BUCKET</key>
+	<string>terrarun-6d767.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:192169808423:ios:3025ade0c30db335c03402</string>
+</dict>
+</plist>

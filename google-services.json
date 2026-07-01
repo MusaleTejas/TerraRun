@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "192169808423",
+    "project_id": "terrarun-6d767",
+    "storage_bucket": "terrarun-6d767.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192169808423:android:c07ddb21efb894cdc03402",
+        "android_client_info": {
+          "package_name": "com.nextgen.TERRARUN"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192169808423-j1252h0hl85cbegg0csjqdoddfra53rt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb2H6VZK1MdXh9UdfY6ItMQWmxXE9PkVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192169808423-j1252h0hl85cbegg0csjqdoddfra53rt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
